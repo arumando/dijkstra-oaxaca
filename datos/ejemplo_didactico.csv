@@ -1,0 +1,12 @@
+# Grafo de ejemplo con nodos abstractos para probar el algoritmo.
+# Tiene varios caminos posibles entre A y F; el más corto es A-C-B-D-F (9 unidades).
+origen,destino,distancia_km
+A,B,7
+A,C,3
+B,C,1
+B,D,2
+C,D,8
+C,E,9
+D,E,4
+D,F,3
+E,F,6

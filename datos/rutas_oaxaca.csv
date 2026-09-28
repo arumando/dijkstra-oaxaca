@@ -1,0 +1,15 @@
+# Conexiones por carretera entre localidades de Oaxaca.
+# IMPORTANTE: verifica cada conexión y escribe la distancia real en km
+# (por ejemplo, con Google Maps o datos de la SCT/INEGI).
+# Mientras una fila diga PENDIENTE, el programa no calculará rutas.
+# Agrega más conexiones (caminos alternos) para que haya varias rutas posibles.
+origen,destino,distancia_km
+Oaxaca de Juárez,Santa María del Tule,PENDIENTE
+Santa María del Tule,Tlacolula de Matamoros,PENDIENTE
+Tlacolula de Matamoros,San Pablo Villa de Mitla,PENDIENTE
+Oaxaca de Juárez,Villa de Etla,PENDIENTE
+Oaxaca de Juárez,Guelatao de Juárez,PENDIENTE
+Guelatao de Juárez,Ixtlán de Juárez,PENDIENTE
+Oaxaca de Juárez,Ocotlán de Morelos,PENDIENTE
+Ocotlán de Morelos,Miahuatlán de Porfirio Díaz,PENDIENTE
+Oaxaca de Juárez,Zimatlán de Álvarez,PENDIENTE
